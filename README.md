@@ -24,12 +24,3 @@ say_hello('Doris')
     'Hello Doris Cat!'
 
 
-
-```python
-!nbdev_build_docs
-```
-
-    converting: /Users/cramirezsanmartin/dev/playground/tutorials/nbdev/kitten/00_core.ipynb
-    converting: /Users/cramirezsanmartin/dev/playground/tutorials/nbdev/kitten/index.ipynb
-    converting /Users/cramirezsanmartin/dev/playground/tutorials/nbdev/kitten/index.ipynb to README.md
-
